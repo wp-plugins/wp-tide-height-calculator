@@ -1,8 +1,9 @@
-<?php /*
+<?php 
+/*
 Plugin Name: WP-Tide-Height-Calculator
 Plugin URI: https://www.facebook.com/ars.shovon
 Description: WP-Tide-Height-Calculator is a plugin that gives an indication of the height of the tide at certain times in the tidal phase. Add [tide] in any page/post to show the calculator.
-Version: 1.0
+Version: 1.6
 Author: Ahmedur Rahman Shovon
 Author URI: http://www.shovon.info
 License: GPL2
