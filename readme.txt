@@ -4,7 +4,7 @@ Donate link: https://www.odesk.com/users/~01fb57077815dac51c
 Tags: calculator, tide height calculator, tide
 Requires at least: 2.0
 Tested up to: 4.1
-Stable tag: 1.2
+Stable tag: 1.3
 License: GPLv2 or later
 
 WP-Tide-Height-Calculator is a plugin that gives an indication of the height of the tide at certain times in the tidal phase. 
